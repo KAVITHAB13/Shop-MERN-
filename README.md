@@ -19,9 +19,11 @@ Key Features:
 
 Technologies Used:
 
-Frontend: React.js, React Context API, React Router
-Backend: Node.js, Express.js
-Database: MongoDB
+Frontend:  React.js, React Context API, React Router
+
+Backend:  Node.js, Express.js
+
+Database:  MongoDB
 
 Team Members:
 
