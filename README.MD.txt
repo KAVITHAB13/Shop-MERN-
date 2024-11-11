@@ -1,4 +1,4 @@
-Project Title: SHOP EZ [ MERN STACK ]
+Project Title: SHOP [ MERN ]
 
 Introduction:
 
