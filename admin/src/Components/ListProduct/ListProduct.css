@@ -1,0 +1,92 @@
+.list-product {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 30px;
+    margin: 20px auto;
+    background: white;
+    border-radius: 8px;
+}
+
+h1 {
+    font-size: 28px; /* Increased font size */
+    font-weight: bold;
+    margin-bottom: 25px;
+    color: black;
+    text-align: center;
+}
+
+.listproduct-format-main {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr 1fr 1fr 0.5fr; /* Columns for image, title, prices, category, remove */
+    gap: 20px;
+    width: 100%;
+    max-width: 1200px; /* Increased max width */
+    padding: 20px 0;
+    border-bottom: 2px solid #ddd;
+    color: black;
+    font-size: 20px; /* Increased font size */
+    font-weight: 600;
+    text-align: center;
+}
+
+.listproduct-allproducts {
+    width: 100%;
+    max-width: 1200px;
+}
+
+.listproduct-format {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr 1fr 1fr 0.5fr;
+    align-items: center;
+    gap: 20px;
+    padding: 15px 0;
+    font-size: 18px; /* Increased font size */
+    border-bottom: 1px solid #eee;
+}
+
+.listproduct-product-icon {
+    width: 100px; /* Increased width */
+    height: 100px; /* Increased height */
+    object-fit: cover;
+    border-radius: 6px;
+    margin: auto;
+}
+
+.listproduct-remove-icon {
+    cursor: pointer;
+    width: 24px; /* Slightly larger remove icon */
+    height: 24px;
+    margin: auto;
+}
+
+.listproduct-allproducts{
+    overflow-y: auto;
+}
+
+/* Text alignment within cells */
+.listproduct-format p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+@media(max-width:800px){
+    .list-product{
+        box-sizing: border-box;
+        width: 95%;
+        height: 100%;
+        padding: 10px 30px;
+        margin: 20px auto;
+    }
+    .listproduct-format-main{
+        padding: 15px 0px;
+        color: gray;
+        font-size: 12px;
+    }
+    .listproduct-product-icon{
+        height: 60px;
+    }
+}

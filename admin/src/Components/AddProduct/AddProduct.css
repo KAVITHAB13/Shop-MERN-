@@ -1,0 +1,107 @@
+.add-product{
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 800px;
+    padding: 30px 50px;
+    margin: 20px 30px;
+    border-radius: 6px;
+    background: rgb(95, 197, 231);
+}
+
+.addproduct-itemfield{
+    width: 100%;
+    color: black;
+    font-size: 20px;
+}
+
+.addproduct-itemfield input{
+    box-sizing: border-box;
+    width: 100%;
+    height: 50px;
+    border-radius: 4px;
+    padding-left: 15px;
+    border: 1px solid white;
+    outline: none;
+    color: black;
+    font-size: 18px;
+    font-family: 'Poppins';
+}
+
+.addproduct-price{
+    display: flex;
+    gap: 40px;
+}
+
+.add-product-selector{
+padding: 10px;
+width: 100px;
+height: 50px;
+font-size: 16px;
+color: black;
+border: 1px solid grey;
+border-radius: 4px;
+}
+
+.addproduct-thumnail-img{
+    height: 120px;
+    width: 120px;
+    border-radius: 10px;
+    object-fit: contain;
+    margin: 10px 0px;
+}
+
+.addproduct-btn{
+    margin-top: 20px;
+    width: 160px;
+    height: 50px;
+    border-radius: 6px;
+    background: red;
+    border: none;
+    cursor: pointer;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+/* Error Message Styling */
+.error-message {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+    font-weight: 400;
+}
+
+/* Success Message Box Styling */
+.success-message {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    display: flex;
+    align-items: center;
+    background-color: #e6f4ea; /* Light green background */
+    color: #2e7d32; /* Dark green text */
+    border: 1px solid #2e7d32;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 500;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 9999;
+}
+
+.success-message .success-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    fill: #2e7d32;
+}
+
+
+
+@media(max-width:800px){
+    .add-product{
+        width: auto;
+        padding: 30px;
+        margin: 20px;
+    }
+}
