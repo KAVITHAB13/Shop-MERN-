@@ -1,0 +1,123 @@
+/* Base Styles */
+.cartitems {
+    margin: 30px 170px;
+}
+
+.cartitems-format-main,
+.cartitems-format {
+    display: grid;
+    grid-template-columns: 0.6fr 2fr 0.8fr 0.5fr 0.5fr 0.5fr 0.3fr;
+    align-items: center;
+    padding: 10px 0;
+    color: #373737;
+    font-size: 16px;
+    font-weight: 600;
+    gap: 20px;
+    text-align: left;
+}
+
+.cartitems hr {
+    height: 1px;
+    background: #e5e5e5;
+    border: none;
+    margin: 10px 0;
+}
+
+.carticon-product-icon {
+    width: 80px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.cartitems-remove-icon {
+    width: 15px;
+    cursor: pointer;
+}
+
+.cartitems-quantity {
+    width: 64px;
+    height: 38px;
+    border: 1px solid #ebebeb;
+    background: white;
+}
+
+/* Cart Totals Section */
+.cart-bottom-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    gap: 100px;
+}
+
+.cart-totals,
+.promo-section {
+    flex: 1;
+    max-width: 500px;
+}
+
+.cart-totals h3 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.totals-wrapper {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.totals-wrapper hr {
+    margin: 15px 0;
+}
+
+.subtotal-row,
+.shipping-row,
+.total-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 7px 0;
+}
+
+.total-row {
+    font-weight: 600;
+}
+
+.proceed-btn {
+    width: 100%;
+    padding: 16px;
+    background: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+/* Promo Code Section */
+.promo-section p {
+    color: #555252;
+    margin-bottom: 15px;
+}
+
+.promo-input {
+    display: flex;
+    gap: 10px;
+}
+
+.promo-input input {
+    flex: 1;
+    padding: 12px;
+    border: 1px solid #e5e5e5;
+    font-size: 14px;
+}
+
+.promo-input button {
+    padding: 12px 24px;
+    background: #000;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
