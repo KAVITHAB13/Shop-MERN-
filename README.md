@@ -34,3 +34,74 @@ Team Members:
 5. Risheka V S
    
 
+DEMO SCREENSHOTS
+
+SIGNUP/LOGIN PAGE
+
+![image](https://github.com/user-attachments/assets/fb406b22-1674-41c7-8cf2-1ca774e084ac)
+
+![image](https://github.com/user-attachments/assets/a8d71ee8-ce94-4464-8c1d-098501bea618)
+
+
+HOME PAGE
+
+![image](https://github.com/user-attachments/assets/15e1e975-d0ba-45e0-994f-618c1a2cdca8)
+
+FOOTER
+
+![image](https://github.com/user-attachments/assets/30d683dd-c4f5-4a82-934d-364866ad6c93)
+
+NEW COLLECTIONS
+
+![image](https://github.com/user-attachments/assets/b6cfc822-f51e-490c-9fb0-38a0c7e26778)
+
+MEN PRODUCTS PAGE
+
+![image](https://github.com/user-attachments/assets/7d4fd14c-bc05-4c4f-81cb-3525b27cdbad)
+
+WOMEN PRODUCTS PAGE
+
+![image](https://github.com/user-attachments/assets/0332520d-4fb2-41fe-b7ff-84e951cc7020)
+
+KIDS PRODUCTS PAGE
+
+![image](https://github.com/user-attachments/assets/6c50ab22-c111-4d03-994f-187befae5029)
+
+SELECTING PRODUCT
+
+![image](https://github.com/user-attachments/assets/94ec205f-65ad-4cfb-8486-43ff2694319d)
+
+DESCRIPTION AND REVIEWS
+
+![image](https://github.com/user-attachments/assets/f51e2349-ca28-4b0e-9793-7eb3ae5a4b90)
+
+CART PAGE
+
+![image](https://github.com/user-attachments/assets/6d37e22e-b565-45b7-b90f-9ae320f15e8c)
+
+PAYMENT PAGE
+
+![image](https://github.com/user-attachments/assets/b5582f4e-3112-4863-925d-09d99b2b419f)
+
+![image](https://github.com/user-attachments/assets/d1a14be7-b7b1-4b2c-9b92-625948097ed1)
+
+![image](https://github.com/user-attachments/assets/7925741f-79a0-4735-b10c-6807c0a71ac0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
