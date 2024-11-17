@@ -36,6 +36,7 @@ Team Members:
 
 DEMO SCREENSHOTS
 
+USER
 SIGNUP/LOGIN PAGE
 
 ![image](https://github.com/user-attachments/assets/fb406b22-1674-41c7-8cf2-1ca774e084ac)
@@ -86,6 +87,23 @@ PAYMENT PAGE
 ![image](https://github.com/user-attachments/assets/d1a14be7-b7b1-4b2c-9b92-625948097ed1)
 
 ![image](https://github.com/user-attachments/assets/7925741f-79a0-4735-b10c-6807c0a71ac0)
+
+ADMIN
+![image](https://github.com/user-attachments/assets/9057207a-b2f9-48ce-b644-219c94a2aee2)
+
+ADD PRODUCT 
+
+![image](https://github.com/user-attachments/assets/6b6f7e7c-5290-42fc-884f-6302b919c113)
+
+![image](https://github.com/user-attachments/assets/d1b736b6-b404-4c05-96c0-3eb92e3de582)
+
+PRODUCT LIST
+
+![image](https://github.com/user-attachments/assets/61f0564c-3b11-4ed7-9f3c-01f49efde330)
+
+
+
+
 
 
 
