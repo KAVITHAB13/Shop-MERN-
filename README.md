@@ -25,14 +25,6 @@ Backend:  Node.js, Express.js
 
 Database:  MongoDB
 
-Team Members:
-
-1. Kavitha B
-2. Archana V
-3. Roonesha U
-4. Shreenithi R P
-5. Risheka V S
-   
 
 DEMO SCREENSHOTS
 
